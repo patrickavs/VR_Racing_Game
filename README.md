@@ -1,2 +1,2 @@
 # VR_Racing_Game
-Racing Game in Unity.
+Racing Game developed in Unity.
